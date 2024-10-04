@@ -3,8 +3,7 @@
 Esta es una aplicación simple desarrollada con Flutter que muestra una lista de productos utilizando un `GridView.builder`.
 
 ### Resultado
-![GridView Builder]([ruta/de/la/imagen.png](https://raw.githubusercontent.com/urian121/GridView-Builder-en-Flutter/refs/heads/master/resultado.png))
-
+![GridView Builder](https://raw.githubusercontent.com/urian121/GridView-Builder-en-Flutter/refs/heads/master/resultado.png)
 
 ## Características
 
